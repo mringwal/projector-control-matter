@@ -60,3 +60,4 @@ On the left side of the projector, there's a mounting slot with an internal HDMI
 
 ![Internal HDMI Slot](internal-hdmi-slot.jpg)
 
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
